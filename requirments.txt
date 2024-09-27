@@ -1,5 +1,5 @@
 streamlit
 google-generativeai
 python-dotenv
-pdf2image
-Pillow  # If you need to manipulate images
+Pillow
+PyMuPDF
