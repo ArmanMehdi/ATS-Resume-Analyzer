@@ -2,5 +2,4 @@ streamlit
 google-generativeai
 python-dotenv
 pdf2image
-io
-base64
+Pillow  # If you need to manipulate images
